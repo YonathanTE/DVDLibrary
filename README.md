@@ -1,2 +1,4 @@
 # DVDLibrary
-Offer the user an ability to store their DVD collection with multiple options as to what they can do. Such options would include adding or removing a DVD, editing a DVD, listing everything in their library, and searching based on the title.
+
+## Method of implementation
+Utilized the MVC design pattern as well as dependency injection. As for the process, Agile provided the template to execute throughout the time this project was worked on.
